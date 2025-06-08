@@ -1,0 +1,31 @@
+# Git 관련
+.git
+.gitignore
+.gitattributes
+
+# IDE 관련
+.idea/
+.vscode/
+*.iml
+
+# Gradle 관련
+.gradle/
+build/
+!build/libs/*.jar
+
+# 문서 파일
+README.md
+HELP.md
+
+# Docker 관련
+Dockerfile
+.dockerignore
+
+# 로그 및 임시 파일
+*.log
+*.tmp
+*.temp
+
+# OS 관련
+.DS_Store
+Thumbs.db
